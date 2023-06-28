@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img{
+    margin-left: 12%;
+    margin-top: 20px;
+    width: 100px;
+    height: 50px;
+}
+.nav{
+    border-bottom: 2px solid gray;
+    width: 100%;
+    
+}
+.nav ,select{
+    display: flex;
+    background-color: lightsteelblue;
+
+}
+.nave{
+    margin-left: 9%;
+    margin-top: 30px;
+    font-size: 18px;
+}
+select{
+    border: none;
+    margin-left: 2%;
+    margin-top: -8px;
+    font-size: 18px;
+}
+.pesquisa{
+    display: flex;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 30px;
+    font-size: 18px;
+    border: 1px solid black;
+    border-radius: 10px;
+
+
+}
+.pesquisa img{
+    width: 20px;
+    height: 20px;
+    margin-top: -0.1px;
+    margin-left: 10px;
+}
+.ligar{
+    background-color: orange;
+    display: flex;
+    margin-left: 2%;
+    margin-bottom: 2%;
+    margin-top: 30px;
+    font-size: 18px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-right: 20px;
+    padding-left: 1%;
+}
+
+.totvs {
+    color: orange;
+    margin-top: 80px;
+    margin-left: 370px;
+    font-weight: 200;
+}
+
+.totvs{
+    background-image: url('./src/blog-mask-2021_8b99d387.png');
+    width: 100%;
+    height: 400px;
+    margin-left: 0%;
+    margin-top: 0%;
+    border-bottom: 5px solid gray;
+}
+.span{
+    margin-left: 450px;
+    padding-top: 90px;
+}
+.banco{
+    color: black;
+    margin-top: 4px;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 100px;
+}
+h1{
+    margin-left: 750px;
+    margin-top: 50px;
+}
+p{
+    margin-left: 580px;
+    font-size: 20px;
+}
+.texto span a{
+    color: orange;
+}
+
+.texto span a:hover {
+    color: rgb(186, 121, 1);
+}
+ul{
+    margin-left: 615px;
+    font-size: 16px;
+}
+.titulo{
+    margin-left: 660px;
+}
+
+.objetivo {
+    padding-right: 450px;
+}
+ol{
+    margin-left: 600px;
+    font-size: 22px;
+}
+.tit{
+    margin-left: 600px;
+}
+.banquin{
+    margin-left: 600px;
+}
+.final{
+    display: flex;
+    background-color: darkgray;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+.text{
+    font-size: 24px;
+    margin-left: 100px;
+}
+.final img{
+    margin-top: 45px;
+    margin-bottom: 50px;
+    margin-left: 600px;
+    width: 100px;
+    height: 35px;
+}
